@@ -20,7 +20,7 @@ Check out the live demo [here](https://meme-generator-kappa-snowy.vercel.app/).
 ## Technologies Used
 
 - **React.js:** Frontend library for building the user interface.
-- **CSS/SCSS:** For styling the application.
+- **CSS/SCSS:** For styling  application.
 - **React Hooks:** Used for managing state and effects in the application.
 
 
