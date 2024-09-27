@@ -1,7 +1,7 @@
 # Meme Generator 😂
 
 A fun and interactive Meme Generator built with **React.js**.
-## Demo
+## Demo link
 
 Check out the live demo [here](https://meme-generator-kappa-snowy.vercel.app/).
 
