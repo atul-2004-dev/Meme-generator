@@ -3,7 +3,7 @@
 A fun and interactive Meme Generator built with **React.js**.
 ## Demo link
 
-Check out the live demo [here](https://meme-generator-kappa-snowy.vercel.app/).
+Check out the live demo of web app [here](https://meme-generator-kappa-snowy.vercel.app/).
 
 ## Screenshots
 
